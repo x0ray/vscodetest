@@ -1,7 +1,7 @@
 # Using VS Code with Go 
 
 This demo program uses comments to show features of the Go Language extension for VS Code. 
-This is based on a video produces by Suzy Mueller:  https://youtu.be/6r08zGi38Tk
+This is based on a video produced by Suzy Mueller:  https://youtu.be/6r08zGi38Tk
 
 ## Useful things
 
